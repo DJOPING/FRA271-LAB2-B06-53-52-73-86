@@ -1,0 +1,6 @@
+﻿segment,dX_ms,electrical_deg,theory_deg
+floating_rising,1.72,72.0,60
+conducting_high,2.84,118.9,120
+floating_falling,1.12,46.9,60
+conducting_low,2.8,117.2,120
+total,8.48,355.0,360
