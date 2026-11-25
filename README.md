@@ -1,1 +1,1 @@
-# FRA271 Lab 2: Actuators (กลุ่ม B06)
+# FRA271 Lab 2: Actuators B06
